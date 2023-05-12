@@ -1,0 +1,4 @@
+jupyter==1.0.0
+la-core-web-lg @ file:///Users/pjb311/code/diy/latincy/la_core_web_lg/packages/la_core_web_lg-3.5.2/dist/la_core_web_lg-3.5.2-py3-none-any.whl#sha256=03e29fbaae0bf583610f6c042b874441aa213aee238f2a63f413bb608fe6f100
+spacy==3.5.2
+spacy-llm==0.1.2
