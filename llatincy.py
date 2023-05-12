@@ -1,3 +1,5 @@
+# cf. https://github.com/explosion/spacy-llm/blob/main/usage_examples/textcat_openai/run_textcat_openai_pipeline.py
+
 import os
 from dotenv import load_dotenv
 from pathlib import Path
